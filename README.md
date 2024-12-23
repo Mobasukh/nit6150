@@ -1,4 +1,4 @@
-# Commanmds
+# Commands
 Make sure you are in the project folder before running these commands.
 
 ## Start backend
